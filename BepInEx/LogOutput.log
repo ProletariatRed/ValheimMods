@@ -1,0 +1,794 @@
+[Message:   BepInEx] BepInEx 5.4.23.5 - valheim (10/6/2026 11:05:09 AM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2351
+[Info   :   BepInEx] Running under Unity v6000.0.75.2503836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Valheim Version: 1.0.17
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 14 plugins to load
+[Info   :   BepInEx] Loading [Conditional Config Sync 1.0.10] (_shudnal.ConditionalConfigSync)
+[Info   :   BepInEx] Loading [Craft From Containers 4.0.7] (aedenthorn.CraftFromContainers)
+[Info   :   BepInEx] Loading [Jotunn 2.30.2] (com.jotunn.jotunn)
+[Info   :Jotunn.Main] Initializing ModCompatibility
+[Info   :Jotunn.Main] Initializing SynchronizationManager
+[Info   :Jotunn.Main] Initializing NetworkManager
+[Info   :   BepInEx] Loading [Better Networking 2.3.2] (CW_Jesse.BetterNetworking)
+[Info   :   BepInEx] Loading [Riverheim 1.2.1] (dev.gurebu.riverheim.stable)
+[Info   :   BepInEx] Loading [Pickaxe Sound Changer 1.0.4] (LuminairPrime.valheim.pickaxesoundchanger)
+[Info   :Pickaxe Sound Changer] Toggle key bound to K.
+[Info   :Pickaxe Sound Changer] Pickaxe Sound Changer v1.0.4 loaded (3 mapping(s)). Sound changes start on for this game session.
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 3.1.3] (randyknapp.mods.equipmentandquickslots)
+[Info   :   BepInEx] Loading [Render Limits 1.16.0] (render_limits)
+[Info   :   BepInEx] Loading [Buy Dvergr Extractor Needle 1.1.1] (shudnal.BuyExtractorNeedle)
+[Info   :   BepInEx] Loading [Warfare 1.9.4] (Therzie.Warfare)
+[Info   :   BepInEx] Loading [Armory 1.4.2] (Therzie.Armory)
+[Info   :   BepInEx] Loading [Monstrum 1.6.0] (Therzie.Monstrum)
+[Info   :   BepInEx] Loading [Wizardry 1.2.2] (Therzie.Wizardry)
+[Info   :   BepInEx] Loading [TopMining 1.0.1] (Uwazouri.TopMining)
+[Message:   BepInEx] Chainloader startup complete (14 loaded, 0 skipped, 0 failed)
+[Info   : Unity Log] 10/12/2026 21:35:39: Using environment steamid 892970
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Using steam APPID:892970
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 10/12/2026 21:35:39: 2026-10-12 21:35:39:674: Using environment steamid 892970
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Initialized platform!
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Initializing PrivilegeManager.
+
+[Info   : Unity Log] 10/12/2026 21:35:39: All files in local storage save data:
+C:/Users/Someone/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
+C:/Users/Someone/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
+C:/Users/Someone/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
+C:/Users/Someone/AppData/LocalLow/IronGate/Valheim\Player-prev.log (287180)
+C:/Users/Someone/AppData/LocalLow/IronGate/Valheim\Player.log (82547)
+
+[Info   : Unity Log] 10/12/2026 21:35:39: All files in platform save data:
+characters/awa.fch (137299)
+characters/awa.fch.old (137299)
+worlds/NewWorldOrder_backup_auto-20260917-143659/_main.3.db2 (145037)
+characters/awa_backup_restore-20241226-215801.fch (18490)
+serverlist/favorite (73)
+serverlist/favorite.old (51)
+serverlist/recent (136)
+serverlist/recent.old (136)
+worlds/HASHSLINGINGSLASHER.fwl.old (55)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230120184812.db (22792018)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230120184812.fwl (55)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230121055549.db (41442094)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230121055549.fwl (55)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230121081356.db (41828388)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230121081356.fwl (55)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230121183210.db (40797244)
+worlds/HASHSLINGINGSLASHER_backup_auto-20230121183210.fwl (55)
+worlds/HASHSLINGINGSLASHER_backup_restore-20230121-203215.db (40819622)
+worlds/HASHSLINGINGSLASHER_backup_restore-20230121-203215.fwl (55)
+worlds/HASHSLINGINGSLASHER_backup_restore-20230121-204321.db (4261115)
+worlds/HASHSLINGINGSLASHER_backup_restore-20230121-204321.fwl (55)
+worlds/NewWorldOrder_backup_auto-20260917-143659/_main.3.chunks (65)
+worlds/Hinterstan_backup_auto-20241226022507.db (5690973)
+worlds/Hinterstan_backup_auto-20241226022507.fwl (170)
+worlds/Hinterstan_backup_auto-20250102145318.db (10969553)
+worlds/Hinterstan_backup_auto-20250102145318.fwl (170)
+worlds/Hinterstan_backup_auto-20250103014316.db (11103698)
+worlds/Hinterstan_backup_auto-20250103014316.fwl (170)
+worlds/Hinterstan_backup_auto-20250103130759.db (11119873)
+worlds/Hinterstan_backup_auto-20250103130759.fwl (170)
+worlds/Hinterstan_backup_auto-20250103151721.db (11129499)
+worlds/Hinterstan_backup_auto-20250103151721.fwl (170)
+worlds/Hinterstan_backup_restore-20250102-152203.db (10969677)
+worlds/Hinterstan_backup_restore-20250102-152203.fwl (170)
+worlds/Doobistan_backup_auto-20251006122401.fwl (50)
+worlds/NewWorldOrder.fwl.old (48)
+worlds/NewWorldOrder_backup_auto-20230130160643.db (53522679)
+worlds/NewWorldOrder_backup_auto-20230130160643.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230131030109.db (53670417)
+worlds/NewWorldOrder_backup_auto-20230131030109.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230131115357.db (56232371)
+worlds/NewWorldOrder_backup_auto-20230131115357.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230131194022.db (53949002)
+worlds/NewWorldOrder_backup_auto-20230131194022.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230201053235.db (53814452)
+worlds/NewWorldOrder_backup_auto-20230201053235.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230201182824.db (53779324)
+worlds/NewWorldOrder_backup_auto-20230201182824.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230203022904.db (58593610)
+worlds/NewWorldOrder_backup_auto-20230203022904.fwl (48)
+worlds/NewWorldOrder_backup_auto-20230203043455.db (58903011)
+worlds/NewWorldOrder_backup_auto-20230203043455.fwl (48)
+worlds/NewWorldOrder_backup_auto-20260917-143659/_main.3.ok (4)
+worlds/Rizzastan_backup_auto-20251006120942.fwl (50)
+worlds/NewWorldOrder_backup_auto-20260917-143659/22_20__1_1.chunk (1205)
+worlds/NewWorldOrder_backup_auto-20260917-143659/20_20__1_3.chunk (563657)
+worlds/NewWorldOrder_backup_auto-20260917-143659/20_1e__1_3.chunk (419314)
+worlds/NewWorldOrder_backup_auto-20260917-143659/1e_20__1_3.chunk (567305)
+worlds/NewWorldOrder_backup_auto-20260917-143659/1e_1e__1_3.chunk (367510)
+worlds/NewWorldOrder_backup_auto-20260917-143659/_main.3.fwl2 (131)
+characters/awa_backup_auto-20260925-235609.fch (130180)
+characters/awa_backup_auto-20260926-214243.fch (135336)
+characters/red_backup_auto-20261006-175726.fch (34363)
+characters/red_backup_auto-20261005-205539.fch (32186)
+characters/red_backup_auto-20261006-155716.fch (33321)
+worlds/BestWorldEver_backup_auto-20260918-135521/_main.2.fwl2 (131)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1a_22__1_2.chunk (104115)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1a_24__1_2.chunk (49532)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1c_20__1_3.chunk (296375)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1c_22__1_12.chunk (1332216)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1c_24__1_8.chunk (377682)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1e_1e__1_10.chunk (509397)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1e_20__1_11.chunk (1534704)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1e_22__1_4.chunk (889355)
+worlds/NewWorldOrder_backup_auto-20260917-192106/1e_24__1_2.chunk (15669)
+worlds/NewWorldOrder_backup_auto-20260917-192106/20_1e__1_9.chunk (451657)
+worlds/NewWorldOrder_backup_auto-20260917-192106/20_20__1_9.chunk (728361)
+worlds/NewWorldOrder_backup_auto-20260917-192106/22_20__1_1.chunk (1205)
+worlds/NewWorldOrder_backup_auto-20260917-192106/_main.18.ok (4)
+worlds/NewWorldOrder_backup_auto-20260917-192106/_main.18.chunks (142)
+worlds/NewWorldOrder_backup_auto-20260917-192106/_main.18.db2 (146997)
+worlds/NewWorldOrder_backup_auto-20260917-192106/_main.18.fwl2 (196)
+worlds/BestWorldEver_backup_auto-20260918-135521/_main.2.db2 (144952)
+worlds/BestWorldEver_backup_auto-20260918-135521/_main.2.chunks (54)
+worlds/BestWorldEver_backup_auto-20260918-135521/_main.2.ok (4)
+worlds/BestWorldEver_backup_auto-20260918-135521/20_20__1_2.chunk (182992)
+worlds/BestWorldEver_backup_auto-20260918-135521/20_1e__1_2.chunk (155108)
+worlds/BestWorldEver_backup_auto-20260918-135521/1e_20__1_2.chunk (154680)
+worlds/BestWorldEver_backup_auto-20260918-135521/1e_1e__1_2.chunk (127096)
+characters/awa_backup_auto-20260926-151531.fch (130564)
+worlds/FunGame_backup_auto-20260917-212206/_main.0.fwl2 (52)
+characters/awa_backup_auto-20260927-163841.fch (137283)
+characters/red_backup_auto-20261005-155720.fch (29251)
+characters/red.fch.old (34585)
+characters/red.fch (34554)
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Initializing preferences provider...
+
+[Info   : Unity Log] 10/12/2026 21:35:39: No preference provider available for this platform!
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Set background loading budget to Low
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Loading first scene!
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Fast load set to True
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Fast load counter set to 1
+
+[Info   : Unity Log] 10/12/2026 21:35:39: Preferences initialized! Activating first scene!
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loading: Starting to load scene: start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Fast load counter set to 2
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Set background loading budget to Normal
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:40: Fast load counter set to 1
+
+[Info   : Unity Log] 10/12/2026 21:35:44: Set background loading budget to High
+
+[Info   : Unity Log] 10/12/2026 21:35:44: GPU Device: 10DE:1F08 (NVIDIA)
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loading: Done, Total time: -5.7180427
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] 10/12/2026 21:35:46: Missing audio clip in music respawn
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Steam initialized, persona:proletariat.red
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Valheim version: 1.0.17 (network version 40)
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Worldgenerator version setup:2
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Render threading mode:LegacyJobified
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:46: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Checking for installed DLCs
+
+[Info   : Unity Log] 10/12/2026 21:35:47: DLC:beta installed:False
+
+[Info   : Unity Log] 10/12/2026 21:35:47: SaveSystem.Reload for Character is done [10ms]
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Vis equip model set to 1
+
+[Info   : Unity Log] 10/12/2026 21:35:47: SaveSystem.Reload for World is done [29ms]
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Playing cinematic: $cinematics_intro
+
+[Info   : Unity Log] 10/12/2026 21:35:47: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 10/12/2026 21:35:48: Session auth respons callback
+
+[Info   : Unity Log] 10/12/2026 21:35:48: Fast load set to False
+
+[Info   : Unity Log] 10/12/2026 21:35:48: Fast load counter set to 0
+
+[Info   : Unity Log] 10/12/2026 21:35:48: Logged in PlayFab user via Steam auth session ticket
+
+[Info   : Unity Log] 10/12/2026 21:35:48: PlayFab local entity ID is C01F7F45E164789
+
+[Info   : Unity Log] 10/12/2026 21:35:48: Released session ticket
+
+[Info   : Unity Log] 10/12/2026 21:35:50: Starting music menu
+
+[Info   : Unity Log] 10/12/2026 21:35:53: show character selection
+
+[Info   : Unity Log] 10/12/2026 21:35:54: OnCharacterStart "red"
+
+[Info   : Unity Log] 10/12/2026 21:35:55: Saved favorite servers list with result SuccessNoWriteNeeded
+
+[Info   : Unity Log] 10/12/2026 21:35:55: Saved recent servers list with result SuccessNoWriteNeeded
+
+[Info   : Unity Log] 10/12/2026 21:35:56: PlayFab lobby matching search filter 'string_key10 eq '47.14.117.143:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 10/12/2026 21:35:58: Failed to get join server data
+
+[Info   : Unity Log] 10/12/2026 21:36:00: PlayFab lobby matching search filter 'string_key10 eq '47.14.117.143:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 10/12/2026 21:36:00: Got join server data Sad Gamers  90294698207080467
+
+[Info   : Unity Log] 10/12/2026 21:36:01: Added server with name Sad Gamers to server list
+
+[Info   : Unity Log] 10/12/2026 21:36:02: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:02: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:03: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:03: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:03: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:03: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:04: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:04: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:04: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:04: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:05: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:05: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:05: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:05: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 10/12/2026 21:36:07: PlayFab lobby matching search filter 'string_key10 eq '47.14.117.143:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Loading main scene
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Fast load set to True
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Fast load counter set to 1
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Saved favorite servers list with result SuccessNoWriteNeeded
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Cloud Save: 136 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (136 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (136 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (136 bytes)
+[Info   : Unity Log] 10/12/2026 21:36:07: Saved recent servers list with result Succeess
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Audioman already exist, destroying self
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Steam initialized, persona:proletariat.red
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Loading player profile red
+
+[Info   : Unity Log] 10/12/2026 21:36:07: isModded: True
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Zonesystem Awake 1431
+
+[Info   : Unity Log] 10/12/2026 21:36:07: DungeonDB Awake 1431
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Steam initialized, persona:proletariat.red
+
+[Info   : Unity Log] 10/12/2026 21:36:07: Checking for installed DLCs
+
+[Info   : Unity Log] 10/12/2026 21:36:08: DLC:beta installed:False
+
+[Info   :   Warfare] ODB Disabling recipe for Battleaxe
+[Info   :   Warfare] ODB Disabling recipe for BattleaxeCrystal
+[Info   :   Warfare] ODB Disabling recipe for FistFenrirClaw
+[Info   :   Warfare] ODB Disabling recipe for SledgeDemolisher
+[Info   :   Warfare] ODB Disabling recipe for SledgeIron
+[Info   :   Warfare] ODB Disabling recipe for SledgeStagbreaker
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 10/12/2026 21:36:08: Zonesystem Start 1431
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Added 2 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Added 25 locations, 35 vegetations, 12 environments, 1 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 10/12/2026 21:36:08: DungeonDB Start 1431
+
+[Info   : Unity Log] 10/12/2026 21:36:08: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Loading: ZNet Start
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Connecting to server with Steam-backend 47.14.117.143:2456
+
+[Message:Better Networking] Steamworks: k_ESteamNetworkingConfig_SendRateMin: 153600 -> 262144 (attempted 262144)
+[Message:Better Networking] Steamworks: k_ESteamNetworkingConfig_SendRateMax: 153600 -> 1048576 (attempted 1048576)
+[Info   : Unity Log] 10/12/2026 21:36:08: Starting to connect to 47.14.117.143:2456
+
+[Info   : Unity Log] Sending Warfare version 1.9.4 and minimum version 1.9.4 to the server.
+[Info   : Unity Log] Sending Armory version 1.4.2 and minimum version 1.4.2 to the server.
+[Info   : Unity Log] Sending Monstrum version 1.6.0 and minimum version 1.6.0 to the server.
+[Info   : Unity Log] Sending Wizardry version 1.2.2 and minimum version 1.2.2 to the server.
+[Message:Better Networking] Compression: [server] connected
+[Info   :ConditionalConfigSync] [Buy Dvergr Extractor Needle][Client][Version] Received Buy Dvergr Extractor Needle version 1.1.1, minimum version 1.1.1, ConditionalConfigSync protocol 1 from the server (0). Remote ConditionalConfigSync version 1.0.10; elapsed 132 ms.
+[Info   :   Warfare] Version check, local: 1.9.4,  remote: 1.9.4
+[Info   :   Warfare] Received same version from server!
+[Info   : Unity Log] Received Warfare version 1.9.4 and minimum version 1.9.4 from the server.
+[Info   : Unity Log] Received Therzie.Warfare ItemManager version 1.9.4 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Warfare PieceManager version 1.9.4 and minimum version 0.0.0 from the server.
+[Info   :    Armory] Version check, local: 1.4.2,  remote: 1.4.2
+[Info   :    Armory] Received same version from server!
+[Info   : Unity Log] Received Armory version 1.4.2 and minimum version 1.4.2 from the server.
+[Info   : Unity Log] Received Therzie.Armory ItemManager version 1.4.2 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Armory PieceManager version 1.4.2 and minimum version 0.0.0 from the server.
+[Info   :  Monstrum] Version check, local: 1.6.0,  remote: 1.6.0
+[Info   :  Monstrum] Received same version from server!
+[Info   : Unity Log] Received Monstrum version 1.6.0 and minimum version 1.6.0 from the server.
+[Info   : Unity Log] Received Therzie.Monstrum ItemManager version 1.6.0 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Monstrum PieceManager version 1.6.0 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Monstrum CreatureManager version 1.6.0 and minimum version 0.0.0 from the server.
+[Info   :  Wizardry] Version check, local: 1.2.2,  remote: 1.2.2
+[Info   :  Wizardry] Received same version from server!
+[Info   : Unity Log] Received Wizardry version 1.2.2 and minimum version 1.2.2 from the server.
+[Info   : Unity Log] Received Therzie.Wizardry ItemManager version 1.2.2 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Wizardry PieceManager version 1.2.2 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Wizardry CreatureManager version 1.2.2 and minimum version 0.0.0 from the server.
+[Message:Better Networking] Compression: Compatible with [server]
+[Message:Better Networking] Compression: Compression to [server]: True
+[Info   : Unity Log] 10/12/2026 21:36:08: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 10/12/2026 21:36:08: New connection
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Connected
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Got connection SteamID 90294698207080467
+
+[Message:Better Networking] Compression: Compression from [server]: True
+[Info   : Unity Log] 10/12/2026 21:36:08: Fast load set to False
+
+[Info   : Unity Log] 10/12/2026 21:36:08: Fast load counter set to 0
+
+[Info   :ConditionalConfigSync] [Buy Dvergr Extractor Needle][Client][Version] Received Buy Dvergr Extractor Needle version 1.1.1, minimum version 1.1.1, ConditionalConfigSync protocol 1 from the server (90294698207080467). Remote ConditionalConfigSync version 1.0.10; elapsed 3044 ms.
+[Info   :ConditionalConfigSync] [Buy Dvergr Extractor Needle][Client] Received 3 configs and 0 custom values from the server
+[Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod Warfare
+[Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod Armory
+[Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod Monstrum
+[Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod Wizardry
+[Info   : Unity Log] Received 1050 configs and 0 custom values from the server for mod Therzie.Warfare ItemManager
+[Info   : Unity Log] Received 830 configs and 0 custom values from the server for mod Therzie.Armory ItemManager
+[Info   : Unity Log] Received 42 configs and 0 custom values from the server for mod Therzie.Monstrum ItemManager
+[Info   : Unity Log] Received 910 configs and 0 custom values from the server for mod Therzie.Wizardry ItemManager
+[Info   : Unity Log] Received 49 configs and 0 custom values from the server for mod Therzie.Warfare PieceManager
+[Info   : Unity Log] Received 7 configs and 0 custom values from the server for mod Therzie.Armory PieceManager
+[Info   : Unity Log] Received 21 configs and 0 custom values from the server for mod Therzie.Monstrum PieceManager
+[Info   : Unity Log] Received 49 configs and 0 custom values from the server for mod Therzie.Wizardry PieceManager
+[Info   : Unity Log] Received 120 configs and 0 custom values from the server for mod Therzie.Monstrum CreatureManager
+[Info   : Unity Log] Received 66 configs and 0 custom values from the server for mod Therzie.Wizardry CreatureManager
+[Info   : Unity Log] 10/12/2026 21:36:11: Network version check, their:40, mine:40
+
+[Info   : Riverheim] Joining world 'Dedicated' with preset 'builtin.amur' v.2
+[Info   : Unity Log] 10/12/2026 21:36:11: Worldgenerator version setup:2
+
+[Info   : Riverheim] Generating world 'Dedicated'/-1945065267 with preset: 'builtin.amur' v.2...
+[Info   : Riverheim] [1 / 60] Heights/RoughnessAnalyzer computed in 0ms 
+[Info   : Riverheim] [2 / 60] PolarProximity computed in 1ms 
+[Info   : Riverheim] [3 / 60] WorldVertices computed in 993ms 
+[Info   : Riverheim] [4 / 60] TilingLods computed in 463ms 
+[Info   : Riverheim] [6 / 60] MainTiling, MainInterpolationMesh computed in 1304ms 
+[Info   : Riverheim] [7 / 60] Regions computed in 164ms 
+[Info   : Riverheim] [9 / 60] Regions/Tiling, Regions/Mapping computed in 122ms 
+[Info   : Riverheim] [10 / 60] LandmassRestrictions computed in 568ms 
+[Info   : Riverheim] [11 / 60] LandmassLayers computed in 223ms 
+[Info   : Riverheim] [13 / 60] LandmassIds, Landmasses/Basins computed in 216ms 
+[Info   : Riverheim] [14 / 60] Flags/Base computed in 53ms 
+[Info   : Riverheim] [15 / 60] CoastalProximity computed in 147ms 
+[Info   : Riverheim] [17 / 60] Landmasses/Distances/LocalMaxima, Landmasses/Partitions computed in 81ms 
+[Info   : Riverheim] [18 / 60] Landmasses/MergedPartitions computed in 49ms 
+[Info   : Riverheim] [19 / 60] Rivers/Channels computed in 35ms 
+[Info   : Riverheim] [20 / 60] Landmasses/Artifacts computed in 65ms 
+[Info   : Riverheim] [21 / 60] Precipitation computed in 17ms 
+[Info   : Riverheim] [22 / 60] Rivers/Origins computed in 21ms 
+[Info   : Riverheim] [23 / 60] Heights/Flatlands computed in 32ms 
+[Info   : Riverheim] [24 / 60] Rivers/FloodFill computed in 302ms 
+[Info   : Riverheim] [25 / 60] RiverTileMetrics computed in 70ms 
+[Info   : Riverheim] [26 / 60] PrunedRivers computed in 4ms 
+[Info   : Riverheim] [27 / 60] Rivers/Curiosities computed in 192ms 
+[Info   : Riverheim] [28 / 60] Rivers/Proximity computed in 249ms 
+[Info   : Riverheim] [29 / 60] Heights/Lakes computed in 69ms 
+[Info   : Riverheim] [30 / 60] Flags/Extended computed in 47ms 
+[Info   : Riverheim] [31 / 60] Heights/DifferentialHeightBoundary computed in 46ms 
+[Info   : Riverheim] [32 / 60] Heights/LakeProximity computed in 65ms 
+[Info   : Riverheim] [33 / 60] TravelDistance computed in 448ms 
+[Info   : Riverheim] [34 / 60] Heights/DifferentialHeightMap computed in 461ms 
+[Info   : Riverheim] [35 / 60] Heights/ShapedHeights computed in 15ms 
+[Info   : Riverheim] [36 / 60] Heights/MountainEdgeProximity computed in 21ms 
+[Info   : Riverheim] [38 / 60] Heights/MountainPartitions, Heights/MountainPartitionsOverstretch computed in 21ms 
+[Info   : Riverheim] [39 / 60] Heights/MountainQuality computed in 24ms 
+[Info   : Riverheim] [40 / 60] Heights/SettledHeightMap computed in 318ms 
+[Info   : Riverheim] [41 / 60] Heights/Roughness computed in 124ms 
+[Info   : Riverheim] [42 / 60] Biomes/Affinities computed in 5ms 
+[Info   : Riverheim] [43 / 60] Biomes/ConditionalPlacement computed in 29ms 
+[Info   : Riverheim] [45 / 60] Biomes/CompetitivePlacement/Scores, Biomes/CompetitivePlacement/Origins computed in 914ms 
+[Info   : Riverheim] [46 / 60] Biomes/CompetitivePlacement computed in 386ms 
+[Info   : Riverheim] [48 / 60] Biomes/Replacement/Scores, Biomes/Replacement/Origins computed in 133ms 
+[Info   : Riverheim] [49 / 60] Biomes computed in 11ms 
+[Info   : Riverheim] [50 / 60] Forestation computed in 23ms 
+[Info   : Riverheim] [51 / 60] Biomes/PostprocessedHeightMap computed in 31ms 
+[Info   : Riverheim] [52 / 60] Heights/JoinedHeights computed in 8ms 
+[Info   : Riverheim] [53 / 60] Rivers/PolylineIndex computed in 39ms 
+[Info   : Riverheim] [54 / 60] Splats/Plateaus computed in 82ms 
+[Info   : Riverheim] [55 / 60] Rivers/Splines computed in 78ms 
+[Info   : Riverheim] [56 / 60] Splats/RiverSources computed in 4ms 
+[Info   : Riverheim] [57 / 60] Splats computed in 1ms 
+[Info   : Riverheim] [58 / 60] Rendering/HeightMap computed in 168ms 
+[Info   : Riverheim] [59 / 60] WorldState computed in 20ms 
+[Info   : Riverheim] [60 / 60] Rendering/WorldRenderer computed in 572ms 
+[Info   : Riverheim] World generation completed in 8029ms
+[Info   : Unity Log] 10/12/2026 21:36:27: client got keys 3
+
+[Info   : Unity Log] 10/12/2026 21:36:27: client got location icons
+
+[Info   : Unity Log] 10/12/2026 21:36:27: Icons:6
+
+[Info   :Jotunn.Managers.SynchronizationManager+<AdminRPC_OnClientReceive>d__49] Received admin status from server: No Admin
+[Info   : Unity Log] 10/12/2026 21:36:27: Checking for any blocked players in the historical player list...
+
+[Info   : Unity Log] 10/12/2026 21:36:27: Session auth respons callback
+
+[Info   : Unity Log] 10/12/2026 21:36:38: Generating new world minimap done [11063ms]
+
+[Info   : Unity Log] 10/12/2026 21:36:38: Minimap: unpacking compressed mapData 11,829 => 8,389,260 bytes
+
+[Info   : Unity Log] 10/12/2026 21:36:38: Starting respawn
+
+[Info   : Unity Log] 10/12/2026 21:36:38: tip:$loadscreen_tip24
+
+[Info   : Unity Log] 10/12/2026 21:36:40: Checking for any blocked players in the historical player list...
+
+[Info   : Unity Log] 10/12/2026 21:36:44: Force generating hmap (704.00, 0.00, -256.00)
+
+[Info   : Unity Log] 10/12/2026 21:36:44: Force generating hmap (512.00, 0.00, -256.00)
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Spawned after 8.019993
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Vis equip model set to 1
+
+[Warning: Unity Log] 10/12/2026 21:36:46: Character ID for player ([Red, 0:0], [proletariat.red, Steam_76561198051946284, 303BDF621580EF96], proletariat.red) was 0:0. Skipping.
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Skipping unloading unused assets
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Minimap: Adding unique location (-122.25, 33.56, 68.01)
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Minimap: Adding unique location (1033.16, 40.84, -1786.79)
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Minimap: Adding unique location (1080.99, 243.76, -2815.81)
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Minimap: Adding unique location (3003.97, 32.65, -711.63)
+
+[Info   : Unity Log] 10/12/2026 21:36:46: Minimap: Adding unique location (3453.82, 31.46, -2053.38)
+
+[Info   : Unity Log] 10/12/2026 21:36:48: Starting music meadows
+
+[Info   : Unity Log] 10/12/2026 21:36:48: Resumed music meadows at 0
+
+[Info   : Unity Log] 10/12/2026 21:36:49: Activating default element Continue
+
+[Info   : Unity Log] 10/12/2026 21:36:50: Activating default element Continue
+
+[Info   : Unity Log] 10/12/2026 21:36:51: Available space to current user: 187350605824. Saving is blocked if below: 209784308 bytes. Warnings are given if below: 419568616
+
+[Info   : Unity Log] 10/12/2026 21:36:51: Game - OnApplicationQuit
+
+[Info   : Unity Log] 10/12/2026 21:36:51: Available space to current user: 187350605824. Saving is blocked if below: 209784308 bytes. Warnings are given if below: 419568616
+
+[Info   : Unity Log] 10/12/2026 21:36:51: Shutting down
+
+[Info   : Unity Log] 10/12/2026 21:36:51: Fast load set to True
+
+[Info   : Unity Log] 10/12/2026 21:36:51: Fast load counter set to 1
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Minimap: compressed mapData 8389260 => 11829 bytes
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Cloud Save: 34558 bytes. /characters/red.fch.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (34558 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (34554 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (34558 bytes)
+[Info   : Unity Log] 10/12/2026 21:36:52: Considering autobackup for Character. World time: 15.93999, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Fast load set to False
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Fast load counter set to 0
+
+[Info   : Unity Log] 10/12/2026 21:36:52: ZNet Shutdown
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Unloading unused assets
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Sending disconnect msg
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Sent to 90294698207080467
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Released session ticket
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 10/12/2026 21:36:52: Disposing socket
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Closing socket 90294698207080467
+
+[Info   : Unity Log] 10/12/2026 21:36:52:   send queue size:0
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Last socket, unregistering callback
+
+[Info   : Unity Log] 10/12/2026 21:36:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Disposing socket
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Last socket, unregistering callback
+
+[Info   : Unity Log] 10/12/2026 21:36:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 10/12/2026 21:36:52: Stopping build thread
+
+[Info   : Unity Log] 10/12/2026 21:36:54: Steam manager on destroy
+
+[Warning: Unity Log] 10/12/2026 21:36:54: Local player destroyed
+
+[Info   : Unity Log] 10/12/2026 21:36:54: ZNet OnDestroy
+
+[Info   : Unity Log] 10/12/2026 21:36:54: Net scene destroyed
+

@@ -1,0 +1,9 @@
+{
+  "name": "CraftFromContainers",
+  "version_number": "4.0.70",
+  "website_url": "https://www.nexusmods.com/valheim/mods/40",
+  "description": "Craft Build Smelt Cook Fuel Pull From Containers (written by aedenthorn on Nexus).",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}

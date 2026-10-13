@@ -1,0 +1,9 @@
+{
+  "name": "TopMining",
+  "description": "Mine ore deposits by simply mining at the same area until its gone.",
+  "version_number": "420.2.2",
+  "website_url": "https://www.forteca.net",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}

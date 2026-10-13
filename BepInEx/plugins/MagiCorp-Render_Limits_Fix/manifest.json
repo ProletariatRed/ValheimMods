@@ -1,0 +1,11 @@
+{
+  "namespace": "MagiCorp",
+  "name": "Render_Limits_Fix",
+  "description": "Valheim 1.0.14 compatibility and hardening build of JereKuusela Render Limits.",
+  "version_number": "1.16.0",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ],
+  "website_url": "https://github.com/JereKuusela/valheim-render_limits",
+  "FullName": "MagiCorp-Render_Limits_Fix"
+}

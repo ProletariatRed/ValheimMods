@@ -1,0 +1,11 @@
+{
+  "name": "PickaxeSoundChanger",
+  "author": "LuminairPrime",
+  "DisplayName": "Pickaxe Sound Changer",
+  "version_number": "1.0.4",
+  "website_url": "",
+  "description": "Changes the pickaxe to use the quieter axe sound instead!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}

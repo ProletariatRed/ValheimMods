@@ -1,0 +1,14 @@
+# Which world each character belongs to.
+#
+#   playerId|worldUid|character|world
+#
+# Dyrr refuses to start a character in any other world, because doing
+# so permanently records that world in the character and locks it out of
+# its own server. Delete a line to unbind that character; the game may be
+# running, the file is re-read when it changes.
+#
+# Only the two numbers are read. The names are here so the line you want
+# is the one you can recognise.
+-951434994|-438382164|Red|Dedicated
+458774959|1233962075|Red|Dedicated
+-138037561|1233962075|Red|Dedicated
